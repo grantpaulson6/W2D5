@@ -1,0 +1,28 @@
+div {
+  height: 200px;
+  width: 200px;
+  padding: 50px;
+  border: 5px solid black;
+}
+
+#first-div {
+  background-color: #39cccc;
+}
+
+#second-div {
+  box-sizing: border-box;
+  background-color: #ff4136;
+}
+
+p {
+  background-color: #7fdbff;
+}
+
+#third-div {
+  /* height: 10px; */
+  display: flex;
+}
+
+/* #third-div p {
+  flex-grow: 1;
+} */
